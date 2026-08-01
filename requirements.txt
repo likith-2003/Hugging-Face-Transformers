@@ -1,0 +1,14 @@
+# Core Web App
+streamlit>=1.30.0
+
+# Deep Learning
+torch>=2.1.0
+torchvision>=0.16.0
+torchaudio>=2.1.0
+transformers>=4.36.0
+pillow>=10.0.0
+numpy>=1.24.0
+
+# Optional but recommended
+opencv-python-headless>=4.8.0
+tqdm>=4.66.0
