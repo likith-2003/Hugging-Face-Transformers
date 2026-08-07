@@ -1,5 +1,6 @@
 # Core Web App
 streamlit>=1.30.0
+plotly>=5.18.0
 
 # Deep Learning
 torch>=2.1.0
